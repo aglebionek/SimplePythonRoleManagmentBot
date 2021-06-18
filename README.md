@@ -12,3 +12,5 @@ A simple role managment bot I made for a friend's server back in 2019. It was ho
 <p>Checks if a role user tries to add/remove exists</p>
 <p>Checks if a role user tries to add isn't already given to him</p>
 <p>Checks if a role user tries to remove is even given to him</p>
+<p>Checks if a user has permission for the role</p>
+<p>Has a predefined list of roles users can't get with the bot</p<
